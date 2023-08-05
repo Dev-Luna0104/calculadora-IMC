@@ -75,6 +75,7 @@ input {
     border-radius: 5px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 15px;
+    transition: 1s;
 }
 
 @media(max-width:768px) {
